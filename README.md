@@ -2,6 +2,10 @@
 - 
 - 👀 I’m interested in Python, Cloud, IoT
 - 🌱 I’m currently learning FastAPI and Cloud Development
+-
+- ☁ AWS | GCP | Azure | OCI
+  - 📃 AWS Cloud Practioner
+  - 📃 OCI Foundations 2021
 - 
 - 🎮 NFS
 - 
