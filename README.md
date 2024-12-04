@@ -1,11 +1,25 @@
-- 👋 Hi, I’m @AviTiwari-Dev
+- 👋 Hi, I’m **@AviTiwari-Dev**
 - 
 - 👀 Works in Python, Cloud, Data Science
 - 🌱 Persuing FastAPI and Cloud Development
 -
-- ☁ AWS | GCP | Azure | OCI
-  - 📃 AWS Cloud Practioner
-  - 📃 OCI Foundations 2021, 2023
+- ⛅ Cloud
+  - ☁ Amazon Web Services
+  - ☁ Google Cloud Platform
+  - ☁ Oracle Cloud Infrastructure
+  - ☁ Microsoft Azure
 - 
+- 📂 Storage
+  - 🗁 PostgreSQL
+  - 🗁 Redis
+  - 🗁 MongoDB
+- 
+- 🗒 Certification
+  - 📃 AWS Cloud Practitioner
+  - 📃 OCI Foundations Associate 2021, 2023
+  - 📃 OCI Data Foundations Associate 2023
+  - 📃 OCI Generative AI Professional 2024
+-  
 - 🎮 NFS
 - 
+
