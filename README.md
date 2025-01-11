@@ -16,7 +16,7 @@
 - 
 - 🗒 Certification
   - 📃 AWS Cloud Practitioner
-  - 📃 OCI Foundations Associate 2021, 2023
+  - 📃 OCI Foundations Associate 2021, 2023, 2024
   - 📃 OCI Data Foundations Associate 2023
   - 📃 OCI Generative AI Professional 2024
 -  
