@@ -4,15 +4,13 @@
 - 🌱 Persuing FastAPI and Cloud Development
 -
 - ⛅ Cloud
-  - ☁ Amazon Web Services
   - ☁ Google Cloud Platform
   - ☁ Oracle Cloud Infrastructure
-  - ☁ Microsoft Azure
+  - ☁ Amazon Web Services
 - 
 - 📂 Storage
   - 🗁 PostgreSQL
   - 🗁 Redis
-  - 🗁 MongoDB
 - 
 - 🗒 Certification
   - 📃 AWS Cloud Practitioner
