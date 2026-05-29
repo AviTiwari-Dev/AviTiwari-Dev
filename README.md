@@ -1,26 +1,36 @@
 - 👋 Hi, I’m **@AviTiwari-Dev**
-- 
-- 👀 Works in Python, Cloud, Data Science
-- 🌱 Persuing FastAPI and Cloud Development
 -
-- ⛅ Cloud
+- 👀 Building scalable backend systems, AI-powered applications, and cloud-native solutions
+- 🌱 Currently exploring Advanced AI Backend Engineering, Distributed Systems, FastAPI, Microservices, Docker, and Cloud Architecture
+-
+- ⚡ Backend & AI Stack
+  - 🐍 Python
+  - ⚡ FastAPI
+  - 🤖 Machine Learning & Generative AI
+  - 🔌 REST APIs & WebSockets
+  - 🧠 AI/LLM Integrations
+-
+- ☁ Cloud
   - ☁ Google Cloud Platform
   - ☁ Oracle Cloud Infrastructure
   - ☁ Amazon Web Services
-- 
-- 📂 Storage
+-
+- 📂 Databases & Storage
   - 🗁 PostgreSQL
   - 🗁 Redis
-- 
-- 🗒 Certification
+-
+- 🗒 Certifications
   - 📃 AWS Cloud Practitioner
   - 📃 OCI Foundations Associate 2021, 2023, 2024, 2025
   - 📃 OCI Data Foundations Associate 2023, 2025
   - 📃 OCI Generative AI Professional 2024, 2025
   - 📃 OCI Developer Professional 2025
   - 📃 OCI Data Science Professional 2025
-  - 📃 Oracle AI Autonomous Database Certified Professional 2025
--  
+-
+- 🎯 Interests
+  - 🤖 AI Engineering
+  - ☁ Cloud Architecture
+  - ⚡ High Performance Backend Systems
+  - 📡 Real-time Applications
+-
 - 🎮 NFS
-- 
-
